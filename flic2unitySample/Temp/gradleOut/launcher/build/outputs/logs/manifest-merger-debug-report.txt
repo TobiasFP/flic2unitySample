@@ -1,0 +1,186 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+MERGED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-85:12
+INJECTED from /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+	package
+		ADDED from /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:70-114
+		INJECTED from /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		INJECTED from /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+		INJECTED from /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:115-161
+	android:versionCode
+		INJECTED from /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+		INJECTED from /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:11-69
+	android:installLocation
+		ADDED from /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:162-202
+supports-screens
+ADDED from /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:3-163
+MERGED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-18:40
+MERGED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-18:40
+	android:largeScreens
+		ADDED from /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:135-160
+application
+ADDED from /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:3-116
+MERGED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:44:5-83:19
+MERGED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:44:5-83:19
+	android:extractNativeLibs
+		ADDED from /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:16-48
+	android:label
+		ADDED from /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:49-81
+	android:icon
+		ADDED from /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:82-113
+	android:theme
+		ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:48:9-50
+	android:isGame
+		ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:46:9-30
+uses-sdk
+INJECTED from /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/launcher/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+INJECTED from /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+MERGED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-11:41
+MERGED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-11:41
+INJECTED from /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+INJECTED from /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		INJECTED from /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		INJECTED from /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:22-76
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:5-74
+	android:name
+		ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:22-65
+uses-feature#android.hardware.bluetooth_le
+ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:9-53
+uses-feature#0x00030000
+ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:19-51
+uses-feature#android.hardware.vulkan.version
+ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:9-55
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:32:5-67
+	android:name
+		ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:32:22-64
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:5-36:36
+	android:required
+		ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:9-33
+	android:name
+		ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:5-39:36
+	android:required
+		ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:9-33
+	android:name
+		ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:38:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:5-42:36
+	android:required
+		ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:42:9-33
+	android:name
+		ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:41:9-72
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:49:9-69:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:55:13-51
+	android:label
+		ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:53:13-45
+	android:launchMode
+		ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:54:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:52:13-48
+	android:configChanges
+		ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:51:13-194
+	android:name
+		ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:50:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:56:13-61:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:57:17-69
+	android:name
+		ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:57:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:59:17-77
+	android:name
+		ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:59:27-74
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:60:17-86
+	android:name
+		ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:60:27-83
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:63:13-65:40
+	android:value
+		ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:65:17-37
+	android:name
+		ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:64:17-57
+meta-data#android.notch_support
+ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:66:13-68:40
+	android:value
+		ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:68:17-37
+	android:name
+		ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:67:17-53
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:71:9-73:33
+	android:value
+		ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:73:13-30
+	android:name
+		ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:72:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:74:9-76:36
+	android:value
+		ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:76:13-33
+	android:name
+		ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:75:13-47
+meta-data#notch.config
+ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:77:9-79:50
+	android:value
+		ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:79:13-47
+	android:name
+		ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:78:13-40
+meta-data#unity.build-id
+ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:80:9-82:68
+	android:value
+		ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:82:13-65
+	android:name
+		ADDED from [:unityLibrary] /home/tobias/workspace/bphunt/flic2unitySample/flic2unitySample/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:81:13-42
